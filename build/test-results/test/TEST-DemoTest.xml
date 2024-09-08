@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="DemoTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2024-09-08T14:09:06" hostname="DESKTOP-MILMFM0" time="0.037">
+  <properties/>
+  <testcase name="testCollinearPoints" classname="DemoTest" time="0.005"/>
+  <testcase name="testMainNotATriangle" classname="DemoTest" time="0.023"/>
+  <testcase name="testIsoscelesTriangle" classname="DemoTest" time="0.001"/>
+  <testcase name="testMinimumValueTriangle" classname="DemoTest" time="0.0"/>
+  <testcase name="testScaleneTriangle" classname="DemoTest" time="0.0"/>
+  <testcase name="testMaximumValueTriangle" classname="DemoTest" time="0.0"/>
+  <testcase name="testNegativeLengthValueSide" classname="DemoTest" time="0.0"/>
+  <testcase name="testInEqualityViolation" classname="DemoTest" time="0.0"/>
+  <testcase name="testMainTriangle" classname="DemoTest" time="0.002"/>
+  <testcase name="testZeroLengthValueSide" classname="DemoTest" time="0.001"/>
+  <testcase name="testEquilateralTriangle" classname="DemoTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
